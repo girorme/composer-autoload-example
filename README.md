@@ -2,7 +2,7 @@ Composer autoload - PSR4
 --
 
 ### Blog Post
-[https://girorme.github.io/2019/09/01/autoload-php-utilizando-composer/](autoload-php-utilizando-composer)
+[autoload-php-utilizando-composer](https://girorme.github.io/2019/09/01/autoload-php-utilizando-composer/)
 
 Usage:
 ```bash
