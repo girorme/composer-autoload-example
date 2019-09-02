@@ -1,0 +1,17 @@
+{
+    "name": "girorme/autoload-com-composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "girorme",
+            "email": "rodrigo.girorme@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App"
+        }
+    }
+}
